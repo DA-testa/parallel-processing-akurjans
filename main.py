@@ -1,4 +1,6 @@
 # python3
+import heapq
+
 
 def parallel_processing(n_threads, n_jobs, job_times):
     output = []
